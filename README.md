@@ -6,3 +6,4 @@
 
 **指導老師: 葉奕成**
 
+<img src="pics/1.png" width="200px" height="200px">
